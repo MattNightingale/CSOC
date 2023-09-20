@@ -17,6 +17,7 @@
   }
 
   h1 {
+    box-sizing: border-box;
     font-size: 50px;
     display: grid;
     align-items: center;
@@ -84,6 +85,7 @@
  }
 
  .nav {
+    box-sizing: border-box;
     width: 75%;
     margin: auto;
     text-align: center;
