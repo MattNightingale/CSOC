@@ -21,6 +21,7 @@
     font-size: 50px;
     display: grid;
     align-items: center;
+    block-size: fit-content;
     width: 75%;
     height: 100px;
     margin: 10px auto;
